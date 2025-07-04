@@ -1,5 +1,0 @@
-# AIML
-
-
-
-My Aiml Projects
